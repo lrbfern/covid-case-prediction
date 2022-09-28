@@ -6,6 +6,6 @@ class test {
 
 class java{
     public static void main(String args[]) {
-        System.out.println("Brew me some coffee baby!");
+        System.out.println("Brew me some coffee!");
     }
 }
